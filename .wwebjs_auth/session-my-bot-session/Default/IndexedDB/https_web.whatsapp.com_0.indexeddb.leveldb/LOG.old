@@ -1,0 +1,17 @@
+2024/12/06-21:10:25.713 2ee4 Reusing MANIFEST E:\WhatsappBotWithGemini\.wwebjs_auth\session-my-bot-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/06-21:10:25.713 2ee4 Recovering log #141
+2024/12/06-21:10:25.782 2ee4 Reusing old log E:\WhatsappBotWithGemini\.wwebjs_auth\session-my-bot-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000141.log 
+2024/12/06-21:10:28.195 2aac Level-0 table #148: started
+2024/12/06-21:10:28.224 2aac Level-0 table #148: 428138 bytes OK
+2024/12/06-21:10:28.229 2aac Delete type=0 #141
+2024/12/06-21:10:28.230 2aac Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/06-21:10:28.365 22f4 Compacting 1@1 + 3@2 files
+2024/12/06-21:10:28.501 22f4 Generated table #149@1: 43799 keys, 2203417 bytes
+2024/12/06-21:10:28.652 22f4 Generated table #150@1: 38984 keys, 2208939 bytes
+2024/12/06-21:10:28.758 22f4 Generated table #151@1: 38921 keys, 1605681 bytes
+2024/12/06-21:10:28.758 22f4 Compacted 1@1 + 3@2 files => 6018037 bytes
+2024/12/06-21:10:28.761 22f4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/12/06-21:10:28.762 22f4 Delete type=2 #143
+2024/12/06-21:10:28.763 22f4 Delete type=2 #144
+2024/12/06-21:10:28.763 22f4 Delete type=2 #145
+2024/12/06-21:10:28.763 22f4 Delete type=2 #148
